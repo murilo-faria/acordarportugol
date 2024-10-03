@@ -1,0 +1,23 @@
+algoritmo "Rotina_Acordar_Completa"
+
+// Início do algoritmo
+inicio
+    // Passo 1: O despertador toca às 06:30
+    escreva("O despertador toca às 06:30.")
+    
+    // Passo 2: Coloco o despertador para adiar
+    escreva("Coloco o despertador para adiar.")
+    
+    // Passo 3: O despertador toca novamente às 06:40
+    escreva("O despertador toca novamente às 06:40.")
+    
+    // Passo 4: Desligo o despertador
+    escreva("Desligo o despertador.")
+    
+    // Passo 5: Coloco o chinelo no pé
+    escreva("Coloco o chinelo no pé.")
+    
+    // Passo 6: Levanto da cama
+    escreva("Levanto da cama.")
+    
+fimalgoritmo
